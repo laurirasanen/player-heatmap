@@ -1,0 +1,7 @@
+.vs/
+*/node_modules/
+*/compiled
+compile.dat
+*/include/
+*/compile.exe
+*/spcomp.exe
